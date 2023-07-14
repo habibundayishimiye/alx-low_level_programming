@@ -4,7 +4,7 @@
 /**
  * main - Entre point.
  * Description:getting the last digit.
- * Return: always 0 indicating successful execution.
+ * Return: Always 0 indicating successful execution.
  */
 int main(void)
 {
